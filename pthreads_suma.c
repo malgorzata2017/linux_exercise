@@ -15,9 +15,9 @@ void *suma_w( void *arg_wsk);
 void *suma_w_no_mutex( void *arg_wsk);
 
 double *tab;
-double suma=0;
-
-int main( int argc, char *argv[] ){
+double suma=30;
+//dopisuje
+int main( int argc, char *argv[] )
 
   int i;
 
